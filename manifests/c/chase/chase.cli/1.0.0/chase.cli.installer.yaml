@@ -1,0 +1,9 @@
+PackageIdentifier: chase.cli
+PackageVersion: 1.0.0
+Installers:
+  - Arch: x64
+    InstallerType: exe
+    InstallerUrl: https://github.com/frypan05/chase/manifests/c/chase/chase.cli/1.0.0/cli.exe
+    InstallerSha256: <SHA256_HASH_OF_YOUR_EXE_FILE>
+    Silent: /S
+    SilentWithProgress: /VERYSILENT
