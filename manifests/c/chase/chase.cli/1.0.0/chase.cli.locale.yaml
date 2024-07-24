@@ -1,0 +1,10 @@
+PackageIdentifier: chase.cli
+PackageVersion: 1.0.0
+ManifestType: defaultLocale
+ManifestVersion: 1.0.0
+Locale: en-US
+Publisher: Daksh Sharma
+PackageName: Chase CLI
+License: MIT
+ShortDescription: A CLI application for finding desired research papers.
+Description:  A simple command-line application that provides you relevant research paper analysis from different sites right from your terminal. For more information, visit: http://frypan.vercel.app
