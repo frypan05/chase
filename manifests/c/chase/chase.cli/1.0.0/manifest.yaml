@@ -7,6 +7,5 @@ License: MIT
 Installers:
   - Arch: x64
     InstallerType: exe
-    Installers:
-      - Url: https://github.com/frypan05/chase/manifests/c/chase/chase.cli/1.0.0/cli.exe
-        Sha256: 288e5f6537f1a90c0cce2fce8e617dc31abaa25afde6f9782f00efefe026f500
+    Url: https://github.com/frypan05/chase/manifests/c/chase/chase.cli/1.0.0/cli.exe
+    Sha256: 288e5f6537f1a90c0cce2fce8e617dc31abaa25afde6f9782f00efefe026f500
