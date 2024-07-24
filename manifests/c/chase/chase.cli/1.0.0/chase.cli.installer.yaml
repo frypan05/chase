@@ -4,6 +4,6 @@ Installers:
   - Arch: x64
     InstallerType: exe
     InstallerUrl: https://github.com/frypan05/chase/manifests/c/chase/chase.cli/1.0.0/cli.exe
-    InstallerSha256: <SHA256_HASH_OF_YOUR_EXE_FILE>
+    InstallerSha256: 288e5f6537f1a90c0cce2fce8e617dc31abaa25afde6f9782f00efefe026f500
     Silent: /S
     SilentWithProgress: /VERYSILENT
