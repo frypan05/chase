@@ -3,6 +3,7 @@ PackageVersion: 1.0.0
 ManifestType: defaultLocale
 ManifestVersion: 1.0.0
 Locale: en-US
+PackageLocale: en-US
 Publisher: Daksh Sharma
 PackageName: Chase CLI
 License: MIT
