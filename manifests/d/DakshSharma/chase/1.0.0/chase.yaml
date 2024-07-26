@@ -1,0 +1,12 @@
+Id: chase.clt
+Publisher: Daksh Sharma
+Name: Chase CLI Tool
+Version: 1.0.0
+License: MIT
+InstallerType: exe
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://github.com/frypan05/chase/tree/main/manifests/c/chase/chase.cli/1.0.0/chase.exe
+    InstallerSha256: 5f9804be1ce64c3326637fd209692a18096edb9cf1e308f708c92dac4e38fb8f
+Description: "Chase is a Scientific Search Engine CLI tool."
+Homepage: https://frypan.vercel.app
