@@ -1,7 +1,7 @@
-Id: chase.clt
+PackageIdentifier: chase.clt
 Publisher: Daksh Sharma
 Name: Chase CLI Tool
-Version: 1.0.0
+PackageVersion: 1.0.0
 License: MIT
 InstallerType: exe
 Installers:
