@@ -8,7 +8,7 @@ InstallModes:
 Installers:
   - Architecture: x64
     InstallerType: exe
-    InstallerUrl: https://github.com/frypan05/chase/tree/main/manifests/c/chase/chase.cli/1.0.0/chase.exe
+    InstallerUrl: https://github.com/frypan05/chase/tree/main/manifests/d/DakshSharma/chase/1.0.0
     InstallerSha256: 5f9804be1ce64c3326637fd209692a18096edb9cf1e308f708c92dac4e38fb8f
     InstallerLocale: en-US
     UpgradeBehavior: install
