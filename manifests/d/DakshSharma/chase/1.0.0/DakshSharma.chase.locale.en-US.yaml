@@ -8,7 +8,7 @@ Publisher: "Daksh Sharma"
 PublisherUrl: "https://frypan.vercel.app/"
 
 PackageName: "Chase CLI Tool"
-PackageUrl: "https://github.com/frypan05/chase/tree/main/manifests/d/DakshSharma/chase/1.0.0"
+PackageUrl: "https://github.com/frypan05/chase"
 License: "Apache License"
 LicenseUrl: "https://github.com/frypan05/chase/blob/main/manifests/d/DakshSharma/chase/1.0.0/LICENSE"
 ShortDescription: "A CLI application for research paper retrieval."
