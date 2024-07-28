@@ -1,0 +1,18 @@
+PackageIdentifier: "DakshSharma.chase"
+PackageVersion: "1.0.0"
+Platform: 
+ - "Windows.Desktop"
+ManifestVersion: "1.0.0"
+InstallModes:
+  - "interactive"
+  - "silent"
+  - "silentWithProgress"
+Installers:
+  - Architecture: "x64"
+    InstallerType: "exe"
+    InstallerUrl: "https://github.com/frypan05/chase/blob/main/manifests/d/DakshSharma/chase/1.0.0/chase.exe"
+    InstallerSha256: 5f9804be1ce64c3326637fd209692a18096edb9cf1e308f708c92dac4e38fb8f
+    InstallerLocale: "en-US"
+    UpgradeBehavior: "install"
+ManifestType: "installer"
+ManifestVersion: "1.0.0"

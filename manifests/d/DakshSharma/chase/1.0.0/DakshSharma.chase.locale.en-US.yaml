@@ -1,0 +1,29 @@
+PackageIdentifier: "DakshSharma.chase"
+PackageVersion: "1.0.0"
+PackageLocale: "en-US"
+ManifestType: "defaultLocale"
+ManifestVersion: "1.0.0"
+PackageLocale: "en-US"
+
+Publisher: "Daksh Sharma"
+PublisherUrl: "https://frypan.vercel.app/"
+
+PackageName: "Chase CLI Tool"
+PackageUrl: "https://github.com/frypan05/chase/tree/main/manifests/d/DakshSharma/chase/1.0.0"
+License: "Apache License"
+LicenseUrl: "https://github.com/frypan05/chase/blob/main/manifests/d/DakshSharma/chase/1.0.0/LICENSE"
+ShortDescription: "A CLI application for research paper retrieval."
+
+Tags: 
+- "Console"
+- "Command-Line"
+- "Shell"
+- "Command-Prompt"
+- "PowerShell"
+- "Developer-Tools"
+- "Utilities"
+- "cli"
+- "cmd"
+- "ps"
+- "terminal"
+
