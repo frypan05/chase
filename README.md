@@ -31,5 +31,9 @@ winget install DakshSharma.chase
 ## Contact: 
 If you have any questions, feel free to reach out:
 
-GitHub Issues : https://github.com/frypan05/chase/issues
-Daksh Sharma : https://frypan.vercel.app/
+- GitHub Issues : https://github.com/frypan05/chase/issues
+- Daksh Sharma : https://frypan.vercel.app/
+## Made with <3 by Daksh Sharma.
+- Copyrights reserved by Daksh Sharma 2024.
+- Alternative piracies will be punishable.
+- PRs / Issues are welcomed for speculations. 
