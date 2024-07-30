@@ -1,6 +1,6 @@
 # Chase CLI Tool
 
-Chase is a Command-Line Interface (CLI) tool designed to assist researchers in retrieving research papers efficiently. It provides a convenient way to search for and download academic papers from various online sources.
+Chase is a Command-Line Interface SSE (Scientific Search Engine) tool designed to assist researchers in retrieving research papers efficiently. It provides a convenient way to search for and download academic papers from various online sources.
 
 ## Features
 
