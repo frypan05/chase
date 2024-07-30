@@ -24,7 +24,7 @@ winget install DakshSharma.chase
 - Move the chase.exe file to a directory included in your system's PATH.
 
 ## Usage: 
-- Search for papers: chase search "machine learning"
+- Search for papers: chase search "Photoelectric Effect"
 - Download a paper: chase download <paper-id>
 - help: chase help
 
