@@ -35,5 +35,5 @@ If you have any questions, feel free to reach out:
 - Daksh Sharma : https://frypan.vercel.app/
 ## Made with <3 by Daksh Sharma.
 - Copyrights reserved by Daksh Sharma 2024.
-- Alternative piracies will be punishable.
+- Alternative piracies will be traced back and will be held as a punishable offence.
 - PRs / Issues are welcomed for speculations. 
