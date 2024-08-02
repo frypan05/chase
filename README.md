@@ -2,16 +2,16 @@
 
 Chase is a Command-Line Interface SSE (Scientific Search Engine) tool designed to assist researchers in retrieving research papers efficiently. It provides a convenient way to search for and download academic papers from various online sources.
 
-## Features
+## Features:
 
 - Search for research papers by title, author, or keywords.
 - Download papers directly from the command line.
 - Supports multiple academic databases.
 - Easy-to-use interface with interactive and silent modes.
 
-## Installation
+## Installation:
 
-### Using Winget
+### Using Winget:
 
 You can install Chase using the Windows Package Manager (winget). Ensure you have winget installed and configured on your system.
 
