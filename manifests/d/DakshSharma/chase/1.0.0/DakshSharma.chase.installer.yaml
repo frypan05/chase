@@ -4,7 +4,6 @@ PackageIdentifier: "DakshSharma.chase"
 PackageVersion: "1.0.0"
 Platform: 
   - "Windows.Desktop"
-ManifestVersion: "1.0.0"
 InstallModes:
   - "interactive"
   - "silent"
