@@ -15,5 +15,6 @@ Installers:
     InstallerSha256: "d349ed54ae4e077f0605db9e1b236ad62ee1a2259c82e29f0e0d9913096799be"
     InstallerLocale: "en-US"
     UpgradeBehavior: "install"
-    Silent: "/S"
-    SilentWithProgress: "/S"
+    InstallerSwitches:
+      Silent: "/S"
+      SilentWithProgress: "/S"
