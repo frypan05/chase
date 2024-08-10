@@ -16,9 +16,10 @@ Installers:
     InstallerLocale: "en-US"
     UpgradeBehavior: "install"
     Dependencies:
-      - Package: "libcurl-x64.dll"
-      - InstallerUrl: "https://github.com/frypan05/chase/releases/download/v1.0.1/libcurl-x64.dll"
-      - InstallerSha256: "C9A922CEE3A9A3913DB087BF395683A86C87085F2BDA6092A0E6E543067420BD"
+      WindowsFeatures: []
+      WindowsLibraries: []
+      PackageDependencies:
+        - PackageIdentifier: "curl.libcurl"
     InstallerSwitches:
       Silent: "/S"
       SilentWithProgress: "/S"
