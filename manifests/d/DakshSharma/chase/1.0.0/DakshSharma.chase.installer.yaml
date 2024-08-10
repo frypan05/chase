@@ -19,6 +19,10 @@ Installers:
       WindowsFeatures: []
       WindowsLibraries: []
       PackageDependencies: []
+    Files:
+      - RelativeFilePath: "libcurl-x64.dll"
+        Url: "https://github.com/frypan05/chase/releases/download/v1.0.1/libcurl-x64.dll"
+        Sha256: "C9A922CEE3A9A3913DB087BF395683A86C87085F2BDA6092A0E6E543067420BD"
     InstallerSwitches:
       Silent: "/S"
       SilentWithProgress: "/S"
