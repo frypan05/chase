@@ -18,8 +18,7 @@ Installers:
     Dependencies:
       WindowsFeatures: []
       WindowsLibraries: []
-      PackageDependencies:
-        - PackageIdentifier: "curl.libcurl"
+      PackageDependencies: []
     InstallerSwitches:
       Silent: "/S"
       SilentWithProgress: "/S"
